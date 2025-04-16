@@ -1,17 +1,15 @@
-<h2 align="left">Hi 👋! My name Muhammad Hamza Afzal 🙃</h2>
+<h2 align="left">Hi 👋! My name Muhammad Hamza Afzal 🙃</h2> 
 
 ###
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 
-![](https://github-readme-stats.vercel.app/api?username=ihamxaafzal&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ihamxaafzal&theme=aura_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ihamxaafzal&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ###
 
-<img align="right" height="162" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGpjOGgweHJ6dTY4MzRmMHRwZTQybXJhbW9weHk4eXN5d2RqM3FkdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7NoNw4pMNTvgc/giphy.gif"  />
 
 ###
-
+---
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -29,7 +27,7 @@
 </div>
 
 ###
-
+---
 <div align="left">
   <a href="mhamzaafzal785@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
