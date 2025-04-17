@@ -47,8 +47,8 @@
 
 ---
 
-<h3 align="left">📫 Let's Connect</h3>
-<p align="left">
+<h3 align="center">📫 Let's Connect</h3>
+<p align="center">
   <a href="mailto:mhamzaafzal785@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail"/>
   </a>
