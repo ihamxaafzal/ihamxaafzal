@@ -3,11 +3,9 @@
   Hey, nice to see you.
 </h1>
 
-<div style="display: flex; align-items: center; gap: 15px;">
-
 <!-- GIF centered at the top -->
-<div style="text-align: center; margin-top: 20px;">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"/>
+<div style="margin-top: 20px;">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" style="display: block; margin: 0 auto;"/>
 </div>
 
 <!-- About Me section centered below -->
@@ -23,15 +21,11 @@
   </ul>
 </div>
 
-
-
-
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=ihamxaafzal&theme=aura_dark&hide_border=false" alt="GitHub Streak Stats"/>
 </p>
 
 ---
-
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="50" alt="HTML5"/>
