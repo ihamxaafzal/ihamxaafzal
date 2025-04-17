@@ -16,7 +16,7 @@
         <li>☁️ Dive deep into <strong>Cloud Platforms</strong> like AWS, Google Cloud, and virtual environments via VMware.</li>
         <li>🎨 I use <strong>Photoshop (PSD)</strong> for various creative tasks and edit engaging videos using <strong>Premiere Pro</strong> and <strong>DaVinci Resolve</strong>.</li>
         <li>🛠️ Build custom solutions and smart workflows that <strong>streamline processes and boost productivity.</strong></li>
-        <li>⚡ <strong>Fun Fact:</strong> 📦 I organize my digital files better than my closet... priorities, right? 🧠💾 </li>
+        <li>⚡ <strong>Fun Fact:</strong> 📦 I organize my digital files better than my closet... priorities, right?💾 </li>
       </ul>
     </td>
     <td align="center" width="50%">
