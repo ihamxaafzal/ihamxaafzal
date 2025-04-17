@@ -20,7 +20,7 @@
       </ul>
     </td>
     <td align="center" width="50%">
-      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="250"/>
+      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300"/>
     </td>
   </tr>
 </table>
