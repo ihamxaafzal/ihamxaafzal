@@ -9,18 +9,18 @@
 
 <table>
   <tr>
-    <td width="75%">
+    <td width="80%">
       <p>I'm a passionate <strong>Tech Enthusiast</strong> who loves blending creativity with code. Whether it's building smart automations, designing crisp visuals, or tinkering with cloud platforms — I enjoy making digital life smoother and cooler 🚀</p>
       <ul>
         <li>🧑‍💻 Specialize in <strong>WordPress Development</strong>, <strong>Python Programming</strong>, and crafting automation tools 🤖</li>
-        <li>☁️ Dive deep into <strong>Cloud Platforms</strong> like AWS, Google Cloud, and virtual environments via VMware</li>
-        <li>🎨 Design clean UI mockups with <strong>Photoshop (PSD)</strong> and edit engaging videos using <strong>Premiere Pro</strong> and <strong>DaVinci Resolve</strong></li>
-        <li>🛠️ Build custom solutions and smart workflows that <strong>streamline processes and boost productivity</strong></li>
-        <li>⚡ <strong>Fun Fact:</strong> My left eye sees the world in monochrome while my right one sees full color – together, it’s all balanced </li>
+        <li>☁️ Dive deep into <strong>Cloud Platforms</strong> like AWS, Google Cloud, and virtual environments via VMware.</li>
+        <li>🎨 Design clean UI mockups with <strong>Photoshop (PSD)</strong> and edit engaging videos using <strong>Premiere Pro</strong> and <strong>DaVinci Resolve</strong>.</li>
+        <li>🛠️ Build custom solutions and smart workflows that <strong>streamline processes and boost productivity.</strong></li>
+        <li>⚡ <strong>Fun Fact:</strong> My left eye sees the world in monochrome while my right one sees full color – together, it’s all balanced. </li>
       </ul>
     </td>
     <td align="center" width="50%">
-      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300"/>
+      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="250"/>
     </td>
   </tr>
 </table>
