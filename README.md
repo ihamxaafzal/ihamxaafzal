@@ -14,7 +14,7 @@
       <ul>
         <li>🧑‍💻 Specialize in <strong>WordPress Development</strong>, <strong>Python Programming</strong>, and crafting automation tools 🤖</li>
         <li>☁️ Dive deep into <strong>Cloud Platforms</strong> like AWS, Google Cloud, and virtual environments via VMware.</li>
-        <li>🎨 Design clean UI mockups with <strong>Photoshop (PSD)</strong> and edit engaging videos using <strong>Premiere Pro</strong> and <strong>DaVinci Resolve</strong>.</li>
+        <li>🎨 I use <strong>Photoshop (PSD)</strong> for various creative tasks and edit engaging videos using <strong>Premiere Pro</strong> and <strong>DaVinci Resolve</strong>.</li>
         <li>🛠️ Build custom solutions and smart workflows that <strong>streamline processes and boost productivity.</strong></li>
         <li>⚡ <strong>Fun Fact:</strong> My left eye sees the world in monochrome while my right one sees full color – together, it’s all balanced. </li>
       </ul>
