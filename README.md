@@ -1,13 +1,14 @@
+<img src="neon_line.gif" width="100%">
 <h1 align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
-  Hey, nice to see you.
+ Software Engineer | Designer | Exploring Python
 </h1>
-
+<img src="neon_line.gif" width="100%">
 <!-- GIF centered at the top -->
-<div style="margin-top: 20px;">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" style="display: block; margin: 0 auto;"/>
-</div>
 
+<div align="center">
+  <img  src="https://github.com/mateo1mc/mateo1mc/blob/main/github_snake.svg"
+       alt="GIT_snake" /></a>
+</div>
 <!-- About Me section centered below -->
 <div style="max-width: 800px; margin: 40px auto; text-align: center;">
   <h2>👨‍💻 About Me</h2>
@@ -20,7 +21,9 @@
     <li>⚡ <strong>Fun Fact:</strong> 📦 I organize my digital files better than my closet... priorities, right?💾 </li>
   </ul>
 </div>
-
+<div  align="center" style="margin-top: 20px;">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" style="display: block; margin: 0 auto;"/>
+</div>
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=ihamxaafzal&theme=aura_dark&hide_border=false" alt="GitHub Streak Stats"/>
 </p>
