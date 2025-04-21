@@ -3,13 +3,13 @@
  Software Engineer | Designer | Exploring Python
 </h1>
 <img src="neon_line.gif" width="100%">
-<!-- GIF centered at the top -->
+
 
 <div align="center">
   <img  src="https://github.com/mateo1mc/mateo1mc/blob/main/github_snake.svg"
        alt="GIT_snake" /></a>
 </div>
-<!-- About Me section centered below -->
+
 <div style="max-width: 800px; margin: 40px auto; text-align: center;">
   <h2>👨‍💻 About Me</h2>
   <p>I'm a passionate <strong>Tech Enthusiast</strong> who loves blending creativity with code. Whether it's building smart automations, designing crisp visuals, or tinkering with cloud platforms — I enjoy making digital life smoother and cooler 🚀</p>
@@ -49,9 +49,6 @@
   </a>
   <a href="https://www.linkedin.com/in/iammhamzaafzal/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn"/>
-  </a>
-   <a href="https://discord.com/channels/@mhamzaafzal_86609" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
 </p>
 
