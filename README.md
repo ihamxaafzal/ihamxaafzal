@@ -50,6 +50,9 @@
   <a href="https://www.linkedin.com/in/iammhamzaafzal/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn"/>
   </a>
+   <a href="https://discord.com/channels/@mhamzaafzal_86609" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
 </p>
 
 ---
