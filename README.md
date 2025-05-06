@@ -14,7 +14,7 @@
   <h2>👨‍💻 About Me</h2>
   <p>I'm a passionate <strong>Tech Enthusiast</strong> who loves blending creativity with code. Whether it's building smart automations, designing crisp visuals, or tinkering with cloud platforms — I enjoy making digital life smoother and cooler 🚀</p>
   <ul style="text-align: left; display: inline-block; margin-top: 20px;">
-    <li>🧑‍💻 Specialize in <strong>WordPress Development</strong>, <strong>Python Programming</strong>, and crafting automation tools 🤖</li>
+    <li>🧑‍💻 Specialize in <strong>WordPress Development</strong>,<strong> HTML5/CSS <strong/>, <strong> Javascript </strong>, <strong>Python Programming</strong>, and crafting automation tools 🤖</li>
     <li>☁️ Dive deep into <strong>Cloud Platforms</strong> like AWS, Google Cloud, and virtual environments via VMware.</li>
     <li>🎨 I use <strong>Photoshop (PSD)</strong> for various creative tasks and edit engaging videos using <strong>Premiere Pro</strong> and <strong>DaVinci Resolve</strong>.</li>
     <li>🛠️ Build custom solutions and smart workflows that <strong>streamline processes and boost productivity.</strong></li>
