@@ -1,54 +1,74 @@
-<img src="neon_line.gif" width="100%">
-<h1 align="center">
-Software Engineer | JavaScript | HTML5/CSS | JIRA | Agile | Scrum | Cloud Services | Analytics & Reporting | Content Creation
-</h1>
-<img src="neon_line.gif" width="100%">
+<h3 align="center">Software Engineer | AI-Assisted Application Development | Python & JavaScript | Web Development | Automation & Cloud Services</h3>
 
-
-<div align="center">
-  <img  src="https://github.com/mateo1mc/mateo1mc/blob/main/github_snake.svg"
-       alt="GIT_snake" /></a>
-</div>
-
-<div style="max-width: 800px; margin: 40px auto; text-align: center;">
-  <h2>👨‍💻 About Me</h2>
-  <p>I'm a passionate <strong>Tech Enthusiast</strong> who loves blending creativity with code. Whether it's building smart automations, designing crisp visuals, or tinkering with cloud platforms — I enjoy making digital life smoother and cooler 🚀</p>
-  <ul style="text-align: left; display: inline-block; margin-top: 20px;">
-    <li>🧑‍💻 Specialize in <strong>WordPress Development</strong>,<strong> HTML5/CSS <strong/>, <strong> Javascript </strong> and crafting automation tools 🤖</li>
-    <li>☁️ Dive deep into <strong>Cloud Platforms</strong> like AWS, Google Cloud, and virtual environments via VMware.</li>
-    <li>🛠️ Build custom solutions and smart workflows that <strong>streamline processes and boost productivity.</strong></li>
-    <li>⚡ <strong>Fun Fact:</strong> 📦 I organize my digital files better than my closet... priorities, right?💾 </li>
-  </ul>
-</div>
-<div  align="center" style="margin-top: 20px;">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" style="display: block; margin: 0 auto;"/>
-</div>
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ihamxaafzal&theme=aura_dark&hide_border=false" alt="GitHub Streak Stats"/>
+  <img src="profile-banner.svg" alt="Hamza Afzal — turning ideas into useful applications" width="100%" />
 </p>
 
----
-
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="50" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="50" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="50" alt="Google Cloud"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="50" alt="AWS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="50" alt="WordPress"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" height="50" alt="Premiere Pro"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="50" alt="Photoshop"/>
+  <a href="https://github.com/ihamxaafzal?tab=repositories"><strong>Explore my projects</strong></a>
+  &nbsp; · &nbsp;
+  <a href="https://www.linkedin.com/in/iammhamzaafzal/"><strong>LinkedIn</strong></a>
+  &nbsp; · &nbsp;
+  <a href="mailto:mhamzaafzal785@gmail.com"><strong>Get in touch</strong></a>
 </p>
 
----
+## About me
 
-<h3 align="center">📫 Let's Connect</h3>
+I'm **Hamza Afzal**, a software engineer who builds desktop applications, web experiences, and automation tools that solve everyday problems.
+
+I use **AI-assisted development** to explore ideas, develop features, and refine code. My focus is on understanding what I ship: useful functionality, clear interfaces, and setup instructions that make projects easier to run and maintain.
+
+- **Application development:** Python tools and desktop utilities built around practical workflows.
+- **Web development:** JavaScript, HTML, CSS, and WordPress experiences.
+- **Automation:** reducing repetitive work with scripts, integrations, and purpose-built tools.
+- **Cloud and delivery:** working with AWS, Google Cloud, virtual environments, and Agile workflows.
+
+## Featured work
+
+### [VoiceLoom](https://github.com/ihamxaafzal/VoiceLoom)
+
+**A desktop workspace for turning scripts into narration.**
+
+Browse 101 local and online voices, shape the delivery, generate narration, preview the waveform, and export audio. Includes local Kokoro synthesis, Microsoft Edge online voices, compatible voice blending, and Windows setup instructions.
+
 <p align="center">
-  <a href="mailto:mhamzaafzal785@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/iammhamzaafzal/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn"/>
+  <a href="https://github.com/ihamxaafzal/VoiceLoom">
+    <img src="https://raw.githubusercontent.com/ihamxaafzal/VoiceLoom/main/assets/voiceloom-demo.gif" alt="VoiceLoom demo — voice selection, script editing, narration generation, and waveform playback" width="850" />
   </a>
 </p>
 
----
+**Built with:** Python · Tkinter · Kokoro · PyTorch · edge-tts · NumPy · SciPy
+
+[View source and setup guide →](https://github.com/ihamxaafzal/VoiceLoom#readme)
+
+| Project | What it does | Focus |
+| --- | --- | --- |
+| [OCR-ImageToText](https://github.com/ihamxaafzal/OCR-ImageToText) | Extracts text from images with Tesseract OCR, corrects spelling, and exports results to a spreadsheet. | Python · OCR · Document workflows |
+| [TinyLock](https://github.com/ihamxaafzal/TinyLock) | A desktop and child-lock utility for Windows PCs. | Python · Windows utilities |
+
+## Tools and skills
+
+| Area | Technologies and practices |
+| --- | --- |
+| Languages | Python · JavaScript · HTML5 · CSS3 |
+| Applications and automation | Tkinter · Desktop utilities · Workflow scripting · AI-assisted development |
+| Web | WordPress · Interface development |
+| Cloud and virtualization | AWS · Google Cloud · VMware |
+| Project delivery | GitHub · Jira · Agile · Scrum |
+| Supporting skills | Analytics and reporting · Content creation · Photoshop · Premiere Pro |
+
+## How I approach a project
+
+**Understand the problem → build a focused solution → test the workflow → document the setup.**
+
+I care about tools people can actually use: straightforward interfaces, sensible defaults, and documentation that helps someone get started without guesswork.
+
+## Let's connect
+
+Interested in an application, a web project, or a workflow that could be automated?
+
+- **GitHub:** [@ihamxaafzal](https://github.com/ihamxaafzal)
+- **LinkedIn:** [M Hamza Afzal](https://www.linkedin.com/in/iammhamzaafzal/)
+- **Email:** [mhamzaafzal785@gmail.com](mailto:mhamzaafzal785@gmail.com)
+
+<p align="center"><sub>Building useful things, one project at a time.</sub></p>

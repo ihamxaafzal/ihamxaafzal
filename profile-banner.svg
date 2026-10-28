@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+<title id="title">Hamza Afzal — Software Engineer</title>
+<desc id="desc">Building useful applications with code, creativity, and AI. Applications, automation, and cloud services.</desc>
+<defs>
+  <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1223"/><stop offset="1" stop-color="#171633"/></linearGradient>
+  <linearGradient id="accent"><stop stop-color="#6ce5d3"/><stop offset="1" stop-color="#ac9bff"/></linearGradient>
+  <radialGradient id="glow"><stop stop-color="#7d65d6" stop-opacity=".22"/><stop offset="1" stop-color="#7d65d6" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#7d96bf" stroke-opacity=".07"/></pattern>
+</defs>
+<rect width="1280" height="360" rx="22" fill="url(#bg)"/>
+<rect width="1280" height="360" rx="22" fill="url(#grid)"/>
+<ellipse cx="1090" cy="150" rx="270" ry="250" fill="url(#glow)"/>
+<rect x="1" y="1" width="1278" height="358" rx="21" fill="none" stroke="#7180a5" stroke-opacity=".25"/>
+<rect x="48" y="51" width="42" height="4" rx="2" fill="url(#accent)"/>
+<text x="107" y="57" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="600" letter-spacing="3" fill="#aab6d0">ENGINEERING WITH PURPOSE</text>
+<text x="48" y="141" font-family="Segoe UI,Arial,sans-serif" font-size="68" font-weight="700" letter-spacing="-2" fill="#f3f5ff">Hamza Afzal</text>
+<text x="50" y="184" font-family="Segoe UI,Arial,sans-serif" font-size="23" fill="#c1cce0">Turning ideas into useful applications.</text>
+<text x="50" y="219" font-family="Segoe UI,Arial,sans-serif" font-size="17" fill="#8d9dbb">Code, creativity, and AI-assisted development.</text>
+<g font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="600" letter-spacing="1.6">
+<rect x="48" y="265" width="146" height="38" rx="19" fill="#6ce5d3" fill-opacity=".08" stroke="#6ce5d3" stroke-opacity=".30"/><text x="74" y="289" fill="#82e9db">APPLICATIONS</text>
+<rect x="206" y="265" width="145" height="38" rx="19" fill="#ac9bff" fill-opacity=".08" stroke="#ac9bff" stroke-opacity=".30"/><text x="231" y="289" fill="#c0b4ff">AUTOMATION</text>
+<rect x="363" y="265" width="109" height="38" rx="19" fill="#82bcff" fill-opacity=".08" stroke="#82bcff" stroke-opacity=".30"/><text x="391" y="289" fill="#9dccff">CLOUD</text>
+</g>
+<g transform="translate(835 58)">
+  <circle cx="185" cy="122" r="126" fill="none" stroke="#ac9bff" stroke-opacity=".10"/>
+  <circle cx="185" cy="122" r="93" fill="none" stroke="#6ce5d3" stroke-opacity=".16" stroke-dasharray="5 10"/>
+  <path d="M39 61L185 17L330 89L283 224L95 225Z" fill="none" stroke="url(#accent)" stroke-opacity=".35"/>
+  <path d="M39 61L283 224M185 17L95 225M330 89L95 225" fill="none" stroke="#8a95c5" stroke-opacity=".16"/>
+  <rect x="72" y="61" width="225" height="132" rx="14" fill="#111a2c" stroke="#6b789e" stroke-opacity=".45"/>
+  <path d="M72 93H297" stroke="#53617e" stroke-opacity=".35"/>
+  <circle cx="91" cy="77" r="3" fill="#6ce5d3"/><circle cx="104" cy="77" r="3" fill="#ac9bff"/><circle cx="117" cy="77" r="3" fill="#83b9ff"/>
+  <path d="M126 122L107 140L126 158M243 122L262 140L243 158M202 114L171 167" fill="none" stroke="url(#accent)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <g fill="#6ce5d3"><circle cx="39" cy="61" r="5"/><circle cx="283" cy="224" r="5"/></g>
+  <g fill="#ac9bff"><circle cx="185" cy="17" r="5"/><circle cx="330" cy="89" r="5"/><circle cx="95" cy="225" r="5"/></g>
+</g>
+</svg>
