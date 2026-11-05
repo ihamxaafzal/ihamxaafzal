@@ -1,3 +1,4 @@
+
 <h3 align="center">Software Engineer | AI-Assisted Application Development | Python & JavaScript | Web Development | Automation & Cloud Services</h3>
 
 <p align="center">
@@ -45,6 +46,16 @@ Browse 101 local and online voices, shape the delivery, generate narration, prev
 | --- | --- | --- |
 | [OCR-ImageToText](https://github.com/ihamxaafzal/OCR-ImageToText) | Extracts text from images with Tesseract OCR, corrects spelling, and exports results to a spreadsheet. | Python · OCR · Document workflows |
 | [TinyLock](https://github.com/ihamxaafzal/TinyLock) | A desktop and child-lock utility for Windows PCs. | Python · Windows utilities |
+
+## Chrome Bulk Profile Creator
+
+A Windows desktop utility for creating numbered Chrome profiles and managing Chrome Web Store extensions across selected profiles.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ihamxaafzal/Chrome-Bulk-Profile-Creator/main/demo.gif" alt="Chrome Bulk Profile Creator demo" width="820">
+</p>
+
+[View the repository →](https://github.com/ihamxaafzal/Chrome-Bulk-Profile-Creator)
 
 ## Tools and skills
 
