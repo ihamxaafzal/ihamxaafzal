@@ -65,6 +65,40 @@ I combine strong engineering fundamentals with **AI-assisted development** to it
 
 ## 🚀 Flagship Projects
 
+### ☀️ [AuraDim](https://github.com/ihamxaafzal/AuraDim) — *Published on Microsoft Store · Monitor Brightness & Eye-Care Control*
+> Precision Windows desktop utility for controlling **brightness, contrast, and eye-care warmth** across external & laptop monitors via a **Universal 3-Layer Display Engine** (**Hardware DDC/CI**, **Native WMI**, and **Hybrid Overlay**)—officially packaged as an x64 MSIX app and **published on the Microsoft Store**.
+
+<p align="center">
+  <a href="https://apps.microsoft.com/detail/9n8v57fv68j3?hl=en-US&gl=US&ocid=pdpshare" target="_blank">
+    <img src="https://get.microsoft.com/images/en-us%20dark.svg" height="44" alt="Get AuraDim from Microsoft Store" />
+  </a>
+  &nbsp;
+  <a href="https://apps.microsoft.com/detail/9n8v57fv68j3?hl=en-US&gl=US&ocid=pdpshare" target="_blank">
+    <img src="https://img.shields.io/badge/Microsoft_Store-Published_%E2%9C%93-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" height="44" alt="Published on Microsoft Store" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/ihamxaafzal/AuraDim" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Source_%26_Releases-181717?style=for-the-badge&logo=github&logoColor=white" height="44" alt="AuraDim GitHub Repo" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://apps.microsoft.com/detail/9n8v57fv68j3?hl=en-US&gl=US&ocid=pdpshare" target="_blank">
+    <img src="./auradim-showcase.svg" alt="AuraDim Animated Showcase — Dashboard, Setup, and 3-Layer Display Engine (Published on Microsoft Store)" width="850" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET_Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebView2-0078D4?style=flat-square" />
+  <img src="https://img.shields.io/badge/DDC%2FCI_%26_WMI-0EA5E9?style=flat-square" />
+  <img src="https://img.shields.io/badge/MSIX_Store_App-10B981?style=flat-square" />
+  <img src="https://img.shields.io/badge/Windows_10_%2F_11-0078D6?style=flat-square&logo=windows&logoColor=white" />
+</p>
+
+<br/>
+
 ### 🎙️ [VoiceLoom](https://github.com/ihamxaafzal/VoiceLoom) — *AI Desktop Text-to-Speech Studio*
 > Turn scripts into studio-grade narration with **101 local & online voices**, compatible voice blending, interactive waveform playback, and **WAV / FLAC / MP3** export—packaged as a standalone Windows installer.
 
@@ -100,24 +134,17 @@ I combine strong engineering fundamentals with **AI-assisted development** to it
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33.3%" valign="top">
       <h4>🧠 <a href="https://github.com/ihamxaafzal/AgentDock">AgentDock</a></h4>
       <p>A local-first command room for <strong>Hermes Agent</strong> featuring animated multi-agent mission coordination, prompt extraction, research workflows, and optional AI image creation.</p>
       <code>JavaScript</code> · <code>Multi-Agent UI</code> · <code>AI Orchestration</code>
     </td>
-    <td width="50%" valign="top">
-      <h4>☀️ <a href="https://github.com/ihamxaafzal/AuraDim">AuraDim</a></h4>
-      <p>Precision Windows monitor brightness, contrast &amp; eye-care warmth controller supporting external &amp; laptop displays via <strong>DDC/CI, WMI &amp; Universal Engine</strong>.</p>
-      <code>C#</code> · <code>.NET</code> · <code>DDC/CI &amp; WMI</code> · <code>Hardware API</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+    <td width="33.3%" valign="top">
       <h4>📄 <a href="https://github.com/ihamxaafzal/OCR-ImageToText">OCR-ImageToText</a></h4>
       <p>Privacy-friendly Windows desktop OCR app for batch image-to-text extraction with Tesseract language/layout tuning, enhanced OCR pass comparison, and <strong>TXT / CSV / XLSX</strong> export.</p>
       <code>Python</code> · <code>Tesseract OCR</code> · <code>Batch Pipelines</code>
     </td>
-    <td width="50%" valign="top">
+    <td width="33.3%" valign="top">
       <h4>🔒 <a href="https://github.com/ihamxaafzal/TinyLock">TinyLock</a></h4>
       <p>Lightweight, full-screen Windows desktop privacy screen with a refined UI, password protection, live clock, and native Windows secure-lock integration.</p>
       <code>C#</code> · <code>WinForms</code> · <code>Windows Security</code>
