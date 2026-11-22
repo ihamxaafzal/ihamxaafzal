@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/ihamxaafzal">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&multiline=false&repeat=true&width=780&height=42&lines=Software+Engineer+%E2%80%A2+Python+%C2%B7+C%23+%2F+.NET+%C2%B7+JavaScript;Building+AI-Powered+Desktop+Apps+%26+Multi-Agent+Tools;Shipping+Production+Utilities%2C+OCR%2C+Audio+%26+Cloud+Automation;Open+to+Software+Engineer+%2F+AI+Application+Developer+Roles" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&multiline=false&repeat=true&width=820&height=42&lines=AI+Developer+%E2%80%A2+Building+Software+with+AI-Assisted+Development;Python+%C2%B7+C%23+%2F+.NET+%C2%B7+JavaScript+%C2%B7+Multi-Agent+AI+Systems;Shipping+AI+Voice+Studios%2C+OCR%2C+Desktop+Apps+%26+Cloud+Automation;Open+to+AI+Developer+%2F+Software+Engineer+Roles" alt="Typing SVG" />
   </a>
 </p>
 

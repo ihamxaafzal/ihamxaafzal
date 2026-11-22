@@ -1,20 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="M Hamza Afzal — Software Engineer, AI Systems and Desktop/Web Builder">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 330" width="1200" height="330" role="img" aria-label="M Hamza Afzal — AI Developer and AI-Assisted Software Engineer">
   <defs>
     <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#070B14"/>
-      <stop offset="50%" stop-color="#0D1326"/>
-      <stop offset="100%" stop-color="#090F1E"/>
+      <stop offset="0%" stop-color="#060913"/>
+      <stop offset="50%" stop-color="#0D1429"/>
+      <stop offset="100%" stop-color="#080D1B"/>
     </linearGradient>
 
     <radialGradient id="orbCyan" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#22D3EE" stop-opacity="0.32"/>
+      <stop offset="0%" stop-color="#22D3EE" stop-opacity="0.34"/>
       <stop offset="60%" stop-color="#0EA5E9" stop-opacity="0.08"/>
       <stop offset="100%" stop-color="#0EA5E9" stop-opacity="0"/>
     </radialGradient>
 
     <radialGradient id="orbViolet" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.30"/>
-      <stop offset="60%" stop-color="#6366F1" stop-opacity="0.08"/>
+      <stop offset="0%" stop-color="#A855F7" stop-opacity="0.32"/>
+      <stop offset="60%" stop-color="#6366F1" stop-opacity="0.09"/>
       <stop offset="100%" stop-color="#6366F1" stop-opacity="0"/>
     </radialGradient>
 
@@ -23,41 +23,55 @@
       <stop offset="100%" stop-color="#10B981" stop-opacity="0"/>
     </radialGradient>
 
+    <linearGradient id="aiPillBg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0E7490" stop-opacity="0.35"/>
+      <stop offset="50%" stop-color="#4F46E5" stop-opacity="0.40"/>
+      <stop offset="100%" stop-color="#7E22CE" stop-opacity="0.35"/>
+    </linearGradient>
+
+    <linearGradient id="aiPillBorder" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#22D3EE"/>
+      <stop offset="50%" stop-color="#818CF8"/>
+      <stop offset="100%" stop-color="#E879F9"/>
+    </linearGradient>
+
     <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#F8FAFC"/>
-      <stop offset="45%" stop-color="#67E8F9"/>
-      <stop offset="80%" stop-color="#A78BFA"/>
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="40%" stop-color="#67E8F9"/>
+      <stop offset="78%" stop-color="#C084FC"/>
       <stop offset="100%" stop-color="#34D399"/>
     </linearGradient>
 
     <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#22D3EE" stop-opacity="0.65"/>
-      <stop offset="50%" stop-color="#818CF8" stop-opacity="0.35"/>
-      <stop offset="100%" stop-color="#10B981" stop-opacity="0.65"/>
+      <stop offset="0%" stop-color="#22D3EE" stop-opacity="0.72"/>
+      <stop offset="50%" stop-color="#A855F7" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#10B981" stop-opacity="0.72"/>
     </linearGradient>
 
     <linearGradient id="scanGrad" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#22D3EE" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#22D3EE" stop-opacity="0.85"/>
-      <stop offset="100%" stop-color="#A78BFA" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#67E8F9" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#C084FC" stop-opacity="0"/>
     </linearGradient>
 
     <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#38BDF8" stroke-opacity="0.06" stroke-width="1"/>
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#38BDF8" stroke-opacity="0.065" stroke-width="1"/>
     </pattern>
 
     <clipPath id="cardClip">
-      <rect x="2" y="2" width="1196" height="316" rx="20"/>
+      <rect x="2" y="2" width="1196" height="326" rx="20"/>
     </clipPath>
 
     <style>
       .orb1 { animation: float1 9s ease-in-out infinite; }
       .orb2 { animation: float2 11s ease-in-out infinite; }
       .orb3 { animation: float3 10s ease-in-out infinite; }
+      .spark { animation: sparkGlow 2.4s ease-in-out infinite; transform-origin: 84px 55px; }
       .pulse-dot { animation: pulse 2s ease-in-out infinite; transform-origin: center; }
-      .pulse-ring { animation: ring 2s ease-out infinite; transform-origin: 966px 56px; }
+      .pulse-ring { animation: ring 2s ease-out infinite; transform-origin: 966px 55px; }
       .blink { animation: blink 1.1s step-end infinite; }
-      .scanline { animation: scan 5.5s linear infinite; }
+      .scanline { animation: scan 5s linear infinite; }
+      .pill-shimmer { animation: shimmer 4.5s linear infinite; }
       .p1 { animation: drift 6s ease-in-out infinite; }
       .p2 { animation: drift 8s ease-in-out infinite 1.2s; }
       .p3 { animation: drift 7s ease-in-out infinite 2.4s; }
@@ -80,6 +94,10 @@
         0%, 100% { transform: translate(0px, 0px); }
         50% { transform: translate(20px, 16px); }
       }
+      @keyframes sparkGlow {
+        0%, 100% { opacity: 1; transform: scale(1) rotate(0deg); }
+        50% { opacity: 0.65; transform: scale(1.18) rotate(25deg); }
+      }
       @keyframes pulse {
         0%, 100% { opacity: 1; }
         50% { opacity: 0.45; }
@@ -96,6 +114,11 @@
         0% { transform: translateX(-450px); }
         100% { transform: translateX(1300px); }
       }
+      @keyframes shimmer {
+        0% { opacity: 0.55; }
+        50% { opacity: 1; }
+        100% { opacity: 0.55; }
+      }
       @keyframes drift {
         0%, 100% { transform: translateY(0px); opacity: 0.35; }
         50% { transform: translateY(-10px); opacity: 0.9; }
@@ -109,82 +132,99 @@
 
   <g clip-path="url(#cardClip)">
     <!-- Base dark gradient -->
-    <rect width="1200" height="320" fill="url(#bgGrad)"/>
+    <rect width="1200" height="330" fill="url(#bgGrad)"/>
 
     <!-- Tech grid -->
-    <rect width="1200" height="320" fill="url(#grid)"/>
+    <rect width="1200" height="330" fill="url(#grid)"/>
 
     <!-- Animated ambient aurora orbs -->
-    <circle class="orb1" cx="220" cy="80" r="240" fill="url(#orbCyan)"/>
-    <circle class="orb2" cx="980" cy="240" r="260" fill="url(#orbViolet)"/>
-    <circle class="orb3" cx="620" cy="300" r="200" fill="url(#orbEmerald)"/>
+    <circle class="orb1" cx="220" cy="80" r="245" fill="url(#orbCyan)"/>
+    <circle class="orb2" cx="980" cy="240" r="265" fill="url(#orbViolet)"/>
+    <circle class="orb3" cx="620" cy="310" r="210" fill="url(#orbEmerald)"/>
 
     <!-- Top glowing scan line -->
-    <rect class="scanline" x="0" y="2" width="360" height="2.5" fill="url(#scanGrad)"/>
+    <rect class="scanline" x="0" y="2" width="380" height="2.5" fill="url(#scanGrad)"/>
+
+    <!-- Subtle neural constellation accent -->
+    <g opacity="0.22" stroke="#67E8F9" stroke-width="1">
+      <line x1="710" y1="68" x2="756" y2="95"/>
+      <line x1="756" y1="95" x2="800" y2="62"/>
+      <circle cx="710" cy="68" r="2.5" fill="#67E8F9"/>
+      <circle cx="756" cy="95" r="2.5" fill="#C084FC"/>
+      <circle cx="800" cy="62" r="2.5" fill="#34D399"/>
+    </g>
 
     <!-- Floating subtle particles -->
     <circle class="p1" cx="760" cy="95" r="2.5" fill="#67E8F9"/>
-    <circle class="p2" cx="840" cy="145" r="2" fill="#A78BFA"/>
+    <circle class="p2" cx="840" cy="145" r="2" fill="#C084FC"/>
     <circle class="p3" cx="1090" cy="120" r="2.5" fill="#34D399"/>
     <circle class="p4" cx="690" cy="220" r="2" fill="#38BDF8"/>
 
     <!-- Corner HUD brackets -->
-    <path d="M 28 46 L 28 28 L 46 28" fill="none" stroke="#22D3EE" stroke-width="2" stroke-opacity="0.7"/>
-    <path d="M 1172 46 L 1172 28 L 1154 28" fill="none" stroke="#818CF8" stroke-width="2" stroke-opacity="0.7"/>
-    <path d="M 28 274 L 28 292 L 46 292" fill="none" stroke="#10B981" stroke-width="2" stroke-opacity="0.7"/>
-    <path d="M 1172 274 L 1172 292 L 1154 292" fill="none" stroke="#22D3EE" stroke-width="2" stroke-opacity="0.7"/>
+    <path d="M 28 46 L 28 28 L 46 28" fill="none" stroke="#22D3EE" stroke-width="2" stroke-opacity="0.75"/>
+    <path d="M 1172 46 L 1172 28 L 1154 28" fill="none" stroke="#C084FC" stroke-width="2" stroke-opacity="0.75"/>
+    <path d="M 28 284 L 28 302 L 46 302" fill="none" stroke="#10B981" stroke-width="2" stroke-opacity="0.75"/>
+    <path d="M 1172 284 L 1172 302 L 1154 302" fill="none" stroke="#22D3EE" stroke-width="2" stroke-opacity="0.75"/>
 
-    <!-- Top-left role badge -->
-    <rect x="64" y="40" width="290" height="32" rx="16" fill="#0F172A" fill-opacity="0.85" stroke="#22D3EE" stroke-opacity="0.35"/>
-    <text x="82" y="61" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="12.5" font-weight="600" letter-spacing="1.4" fill="#67E8F9">SOFTWARE ENGINEER  •  AI BUILDER</text>
+    <!-- TOP HERO AI DEVELOPER & AI-ASSISTED DEVELOPMENT PILL -->
+    <g class="pill-shimmer">
+      <rect x="64" y="37" width="448" height="36" rx="18" fill="url(#aiPillBg)" stroke="url(#aiPillBorder)" stroke-width="1.5"/>
+    </g>
+    <!-- Animated 4-point AI spark icon -->
+    <path class="spark" d="M 84 46 L 86.4 52.6 L 93 55 L 86.4 57.4 L 84 64 L 81.6 57.4 L 75 55 L 81.6 52.6 Z" fill="#67E8F9"/>
+    <text x="102" y="60" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="13" font-weight="800" letter-spacing="1.4" fill="#F8FAFC">AI DEVELOPER</text>
+    <text x="218" y="60" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="13" font-weight="700" fill="#67E8F9">•</text>
+    <text x="232" y="60" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="12.5" font-weight="700" letter-spacing="1.1" fill="#E9D5FF">AI-ASSISTED DEVELOPMENT</text>
 
     <!-- Top-right pulsing OPEN TO WORK badge -->
-    <rect x="944" y="40" width="192" height="32" rx="16" fill="#064E3B" fill-opacity="0.45" stroke="#34D399" stroke-opacity="0.65"/>
-    <circle class="pulse-ring" cx="966" cy="56" r="5" fill="#34D399"/>
-    <circle class="pulse-dot" cx="966" cy="56" r="4.5" fill="#34D399"/>
-    <text x="982" y="61" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="12.5" font-weight="700" letter-spacing="1.1" fill="#A7F3D0">OPEN TO OPPORTUNITIES</text>
+    <rect x="944" y="39" width="192" height="32" rx="16" fill="#064E3B" fill-opacity="0.48" stroke="#34D399" stroke-opacity="0.7"/>
+    <circle class="pulse-ring" cx="966" cy="55" r="5" fill="#34D399"/>
+    <circle class="pulse-dot" cx="966" cy="55" r="4.5" fill="#34D399"/>
+    <text x="982" y="60" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="12.5" font-weight="700" letter-spacing="1.1" fill="#A7F3D0">OPEN TO OPPORTUNITIES</text>
 
     <!-- Main Name -->
-    <text x="64" y="142" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="54" font-weight="800" letter-spacing="-0.8" fill="url(#nameGrad)">M Hamza Afzal</text>
+    <text x="64" y="145" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="54" font-weight="800" letter-spacing="-0.8" fill="url(#nameGrad)">M Hamza Afzal</text>
 
-    <!-- Subtitle -->
-    <text x="66" y="182" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="19" font-weight="400" fill="#CBD5E1">
-      Shipping practical AI-powered desktop apps, multi-agent systems &amp; web automation.
+    <!-- Crisp AI Developer Subtitle -->
+    <text x="66" y="185" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="18.5" font-weight="500" fill="#E2E8F0">
+      AI Developer crafting real-world apps through <tspan fill="#67E8F9" font-weight="700">AI-assisted development</tspan> &amp; clean engineering.
     </text>
 
     <!-- Terminal command bar -->
-    <rect x="64" y="212" width="675" height="44" rx="10" fill="#0B1120" fill-opacity="0.9" stroke="#334155" stroke-width="1.2"/>
-    <circle cx="84" cy="234" r="4.5" fill="#EF4444"/>
-    <circle cx="99" cy="234" r="4.5" fill="#F59E0B"/>
-    <circle cx="114" cy="234" r="4.5" fill="#10B981"/>
-    <text x="134" y="239" font-family="'Cascadia Code', 'Fira Code', Consolas, monospace" font-size="14" fill="#38BDF8">$</text>
-    <text x="150" y="239" font-family="'Cascadia Code', 'Fira Code', Consolas, monospace" font-size="14" fill="#E2E8F0">hamza --stack </text>
-    <text x="268" y="239" font-family="'Cascadia Code', 'Fira Code', Consolas, monospace" font-size="14" fill="#34D399">"Python · C#/.NET · JavaScript · AI · Cloud"</text>
-    <rect class="blink" x="642" y="224" width="9" height="19" rx="1.5" fill="#22D3EE"/>
+    <rect x="64" y="218" width="698" height="44" rx="10" fill="#0B1120" fill-opacity="0.92" stroke="#334155" stroke-width="1.2"/>
+    <circle cx="84" cy="240" r="4.5" fill="#EF4444"/>
+    <circle cx="99" cy="240" r="4.5" fill="#F59E0B"/>
+    <circle cx="114" cy="240" r="4.5" fill="#10B981"/>
+    <text x="134" y="245" font-family="'Cascadia Code', 'Fira Code', Consolas, monospace" font-size="13.5" fill="#38BDF8">$</text>
+    <text x="148" y="245" font-family="'Cascadia Code', 'Fira Code', Consolas, monospace" font-size="13.5" fill="#E2E8F0">hamza --role </text>
+    <text x="255" y="245" font-family="'Cascadia Code', 'Fira Code', Consolas, monospace" font-size="13.5" fill="#C084FC">"AI Developer"</text>
+    <text x="378" y="245" font-family="'Cascadia Code', 'Fira Code', Consolas, monospace" font-size="13.5" fill="#E2E8F0"> --workflow </text>
+    <text x="480" y="245" font-family="'Cascadia Code', 'Fira Code', Consolas, monospace" font-size="13.5" fill="#34D399">"AI-Assisted · Python · C# · JS"</text>
+    <rect class="blink" x="726" y="230" width="8" height="19" rx="1.5" fill="#22D3EE"/>
 
     <!-- Right-side floating holographic metrics panel -->
-    <g transform="translate(805, 102)">
-      <rect width="330" height="154" rx="14" fill="#0F172A" fill-opacity="0.72" stroke="#38BDF8" stroke-opacity="0.28" stroke-width="1.2"/>
-      <text x="20" y="30" font-family="'Cascadia Code', Consolas, monospace" font-size="11.5" font-weight="700" letter-spacing="1.2" fill="#94A3B8">ENGINEERING FOCUS</text>
+    <g transform="translate(805, 104)">
+      <rect width="330" height="158" rx="14" fill="#0F172A" fill-opacity="0.76" stroke="#818CF8" stroke-opacity="0.35" stroke-width="1.2"/>
+      <text x="20" y="30" font-family="'Cascadia Code', Consolas, monospace" font-size="11.5" font-weight="700" letter-spacing="1.2" fill="#A5B4FC">AI-DRIVEN WORKFLOW</text>
 
       <!-- Live equalizer bars -->
       <g transform="translate(274, 15)">
         <rect class="wave-bar-1" x="0" y="0" width="4" height="18" rx="2" fill="#22D3EE"/>
         <rect class="wave-bar-2" x="8" y="0" width="4" height="18" rx="2" fill="#38BDF8"/>
         <rect class="wave-bar-3" x="16" y="0" width="4" height="18" rx="2" fill="#818CF8"/>
-        <rect class="wave-bar-4" x="24" y="0" width="4" height="18" rx="2" fill="#A78BFA"/>
+        <rect class="wave-bar-4" x="24" y="0" width="4" height="18" rx="2" fill="#C084FC"/>
         <rect class="wave-bar-5" x="32" y="0" width="4" height="18" rx="2" fill="#34D399"/>
       </g>
 
       <line x1="20" y1="42" x2="310" y2="42" stroke="#1E293B" stroke-width="1"/>
 
-      <text x="20" y="68" font-family="'Segoe UI', sans-serif" font-size="13.5" font-weight="600" fill="#E2E8F0">⚡ AI Voice &amp; Multi-Agent Apps</text>
-      <text x="20" y="94" font-family="'Segoe UI', sans-serif" font-size="13.5" font-weight="600" fill="#E2E8F0">🖥️ Native Windows Tools (Python &amp; C#)</text>
-      <text x="20" y="120" font-family="'Segoe UI', sans-serif" font-size="13.5" font-weight="600" fill="#E2E8F0">🌐 Web, Automation &amp; Cloud Delivery</text>
-      <text x="20" y="142" font-family="'Cascadia Code', Consolas, monospace" font-size="11.5" fill="#67E8F9">@ihamxaafzal  •  github.com/ihamxaafzal</text>
+      <text x="20" y="69" font-family="'Segoe UI', sans-serif" font-size="13.5" font-weight="600" fill="#E2E8F0">✦ AI-Assisted Rapid Development</text>
+      <text x="20" y="96" font-family="'Segoe UI', sans-serif" font-size="13.5" font-weight="600" fill="#E2E8F0">🤖 Multi-Agent &amp; AI Voice Systems</text>
+      <text x="20" y="123" font-family="'Segoe UI', sans-serif" font-size="13.5" font-weight="600" fill="#E2E8F0">🖥️ Desktop, Web &amp; Cloud Automation</text>
+      <text x="20" y="146" font-family="'Cascadia Code', Consolas, monospace" font-size="11.5" fill="#67E8F9">@ihamxaafzal  •  github.com/ihamxaafzal</text>
     </g>
   </g>
 
   <!-- Outer rounded border -->
-  <rect x="2" y="2" width="1196" height="316" rx="20" fill="none" stroke="url(#borderGrad)" stroke-width="2"/>
+  <rect x="2" y="2" width="1196" height="326" rx="20" fill="none" stroke="url(#borderGrad)" stroke-width="2"/>
 </svg>
