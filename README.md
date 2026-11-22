@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://iammhamza.com/" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&multiline=false&repeat=true&width=820&height=42&lines=AI+Developer+%E2%80%A2+Building+Software+with+AI-Assisted+Development;Python+%C2%B7+C%23+%2F+.NET+%C2%B7+JavaScript+%C2%B7+Multi-Agent+AI+Systems;Shipping+AI+Voice+Studios%2C+OCR%2C+Desktop+Apps+%26+Cloud+Automation;Open+to+AI+Developer+%2F+Software+Engineer+Roles" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&multiline=false&repeat=true&width=820&height=42&lines=AI+Developer+%E2%80%A2+Building+Software+with+AI-Assisted+Development;Python+%C2%B7+C%23+%2F+.NET+%C2%B7+JavaScript+%C2%B7+Multi-Agent+AI+Systems;Shipping+AI+Voice+Studios%2C+OCR%2C+Desktop+Apps+%26+Cloud+Automation;Open+to+AI+Developer%2C+Software+Engineer+%26+Operations+Roles" alt="Typing SVG" />
   </a>
 </p>
 
@@ -53,8 +53,8 @@ I combine strong engineering fundamentals with **AI-assisted development** to it
       Interactive JavaScript apps, WordPress experiences, and bulk browser profile &amp; extension automation tools.
     </td>
     <td width="50%" valign="top">
-      <strong>☁️ Cloud &amp; Agile Delivery</strong><br/>
-      Hands-on delivery across <strong>AWS</strong>, <strong>Google Cloud</strong>, VMware virtualization, GitHub CI/CD, Jira, and Agile/Scrum workflows.
+      <strong>☁️ Cloud, Operations &amp; Agile Delivery</strong><br/>
+      Hands-on execution across <strong>IT &amp; Tech Operations</strong>, process optimization, <strong>AWS</strong>, <strong>Google Cloud</strong>, VMware, Jira, and Agile/Scrum workflows.
     </td>
   </tr>
 </table>
@@ -227,9 +227,9 @@ I combine strong engineering fundamentals with **AI-assisted development** to it
 04. Document for Zero-Friction →  Clear READMEs, visual demos, and reproducible setup guides
 ```
 
-## 🤝 Let's Connect — Open to Software Engineering Roles
+## 🤝 Let's Connect — Open to AI, Software & Operations Roles
 
-Looking for an **AI Developer**, **Software Engineer**, or **Desktop / Automation Engineer** who ships real, user-ready products? Explore more of my work at **[iammhamza.com](https://iammhamza.com/)** or reach out directly!
+Looking for an **AI Developer**, **Software Engineer**, **Automation Engineer**, or **Operations Specialist** *(IT, Tech & Process Operations)* who streamlines workflows and ships real, user-ready systems? Explore more of my work at **[iammhamza.com](https://iammhamza.com/)** or reach out directly!
 
 <p align="center">
   <a href="https://iammhamza.com/" target="_blank">
@@ -247,5 +247,5 @@ Looking for an **AI Developer**, **Software Engineer**, or **Desktop / Automatio
 </p>
 
 <p align="center">
-  <img src="./footer-wave.svg" alt="Footer Wave — M Hamza Afzal" width="100%" />
+  <img src="./footer-wave.svg?v=2" alt="Footer Wave — M Hamza Afzal" width="100%" />
 </p>
