@@ -68,7 +68,7 @@
       .orb3 { animation: float3 10s ease-in-out infinite; }
       .spark { animation: sparkGlow 2.4s ease-in-out infinite; transform-origin: 84px 55px; }
       .pulse-dot { animation: pulse 2s ease-in-out infinite; transform-origin: center; }
-      .pulse-ring { animation: ring 2s ease-out infinite; transform-origin: 918px 56px; }
+      .pulse-ring { animation: ring 2s ease-out infinite; transform-origin: 902px 56px; }
       .blink { animation: blink 1.1s step-end infinite; }
       .scanline { animation: scan 5s linear infinite; }
       .pill-shimmer { animation: shimmer 4.5s linear infinite; }
@@ -76,11 +76,11 @@
       .p2 { animation: drift 8s ease-in-out infinite 1.2s; }
       .p3 { animation: drift 7s ease-in-out infinite 2.4s; }
       .p4 { animation: drift 9s ease-in-out infinite 0.6s; }
-      .wave-bar-1 { animation: eq 1.4s ease-in-out infinite; transform-origin: bottom; }
-      .wave-bar-2 { animation: eq 1.4s ease-in-out infinite 0.2s; transform-origin: bottom; }
-      .wave-bar-3 { animation: eq 1.4s ease-in-out infinite 0.4s; transform-origin: bottom; }
-      .wave-bar-4 { animation: eq 1.4s ease-in-out infinite 0.6s; transform-origin: bottom; }
-      .wave-bar-5 { animation: eq 1.4s ease-in-out infinite 0.8s; transform-origin: bottom; }
+      .wave-bar-1 { animation: eq 1.4s ease-in-out infinite; transform-box: fill-box; transform-origin: center bottom; }
+      .wave-bar-2 { animation: eq 1.4s ease-in-out infinite 0.2s; transform-box: fill-box; transform-origin: center bottom; }
+      .wave-bar-3 { animation: eq 1.4s ease-in-out infinite 0.4s; transform-box: fill-box; transform-origin: center bottom; }
+      .wave-bar-4 { animation: eq 1.4s ease-in-out infinite 0.6s; transform-box: fill-box; transform-origin: center bottom; }
+      .wave-bar-5 { animation: eq 1.4s ease-in-out infinite 0.8s; transform-box: fill-box; transform-origin: center bottom; }
 
       @keyframes float1 {
         0%, 100% { transform: translate(0px, 0px); }
@@ -175,10 +175,10 @@
     <text x="102" y="60" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="13" font-weight="800" letter-spacing="1.2" fill="#F8FAFC">AI DEVELOPER  <tspan fill="#67E8F9">•</tspan>  <tspan fill="#E9D5FF" font-weight="700">AI-ASSISTED DEVELOPMENT</tspan></text>
 
     <!-- Top-right pulsing OPEN TO WORK badge -->
-    <rect x="896" y="39" width="240" height="34" rx="17" fill="#064E3B" fill-opacity="0.48" stroke="#34D399" stroke-opacity="0.72"/>
-    <circle class="pulse-ring" cx="918" cy="56" r="5" fill="#34D399"/>
-    <circle class="pulse-dot" cx="918" cy="56" r="4.5" fill="#34D399"/>
-    <text x="934" y="60.5" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="12" font-weight="700" letter-spacing="1.0" fill="#A7F3D0">OPEN TO OPPORTUNITIES</text>
+    <rect x="880" y="39" width="256" height="34" rx="17" fill="#064E3B" fill-opacity="0.48" stroke="#34D399" stroke-opacity="0.72"/>
+    <circle class="pulse-ring" cx="902" cy="56" r="5" fill="#34D399"/>
+    <circle class="pulse-dot" cx="902" cy="56" r="4.5" fill="#34D399"/>
+    <text x="1018" y="60.5" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="11.5" font-weight="700" letter-spacing="0.8" fill="#A7F3D0">OPEN TO OPPORTUNITIES</text>
 
     <!-- Main Name -->
     <text x="64" y="142" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="54" font-weight="800" letter-spacing="-0.8" fill="url(#nameGrad)">M Hamza Afzal</text>

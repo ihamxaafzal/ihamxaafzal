@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./hero-banner.svg?v=3" alt="M Hamza Afzal — AI Developer &amp; AI-Assisted Software Engineer" width="100%" />
+  <img src="./hero-banner.svg?v=4" alt="M Hamza Afzal — AI Developer &amp; AI-Assisted Software Engineer" width="100%" />
 </p>
 
 <p align="center">
