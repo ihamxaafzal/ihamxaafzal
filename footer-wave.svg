@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 130" width="1200" height="130" role="img" aria-label="Footer wave — M Hamza Afzal">
+  <defs>
+    <linearGradient id="fBg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#070B14"/>
+      <stop offset="50%" stop-color="#0D1428"/>
+      <stop offset="100%" stop-color="#070B14"/>
+    </linearGradient>
+    <linearGradient id="w1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#22D3EE" stop-opacity="0.30"/>
+      <stop offset="50%" stop-color="#818CF8" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#34D399" stop-opacity="0.30"/>
+    </linearGradient>
+    <linearGradient id="w2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#34D399" stop-opacity="0.22"/>
+      <stop offset="50%" stop-color="#22D3EE" stop-opacity="0.28"/>
+      <stop offset="100%" stop-color="#A78BFA" stop-opacity="0.22"/>
+    </linearGradient>
+    <clipPath id="fClip">
+      <rect x="1" y="1" width="1198" height="128" rx="16"/>
+    </clipPath>
+    <style>
+      .waveA { animation: shiftA 9s ease-in-out infinite alternate; }
+      .waveB { animation: shiftB 12s ease-in-out infinite alternate; }
+      @keyframes shiftA {
+        0% { transform: translateX(0px); }
+        100% { transform: translateX(-140px); }
+      }
+      @keyframes shiftB {
+        0% { transform: translateX(-120px); }
+        100% { transform: translateX(40px); }
+      }
+    </style>
+  </defs>
+
+  <g clip-path="url(#fClip)">
+    <rect width="1200" height="130" fill="url(#fBg)"/>
+    <path class="waveA" d="M 0 76 Q 170 42 340 76 T 680 76 T 1020 76 T 1360 76 L 1360 130 L 0 130 Z" fill="url(#w1)"/>
+    <path class="waveB" d="M 0 92 Q 190 60 380 92 T 760 92 T 1140 92 T 1520 92 L 1520 130 L 0 130 Z" fill="url(#w2)"/>
+
+    <text x="600" y="54" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="18" font-weight="700" fill="#F1F5F9">
+      Let's build something practical, reliable, and impactful together.
+    </text>
+    <text x="600" y="82" text-anchor="middle" font-family="'Cascadia Code', Consolas, monospace" font-size="13" fill="#94A3B8">
+      M Hamza Afzal  •  @ihamxaafzal  •  Open to Software Engineering &amp; AI Builder Roles
+    </text>
+  </g>
+  <rect x="1" y="1" width="1198" height="128" rx="16" fill="none" stroke="#38BDF8" stroke-opacity="0.3" stroke-width="1.5"/>
+</svg>

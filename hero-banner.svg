@@ -1,0 +1,190 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="M Hamza Afzal — Software Engineer, AI Systems and Desktop/Web Builder">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#070B14"/>
+      <stop offset="50%" stop-color="#0D1326"/>
+      <stop offset="100%" stop-color="#090F1E"/>
+    </linearGradient>
+
+    <radialGradient id="orbCyan" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#22D3EE" stop-opacity="0.32"/>
+      <stop offset="60%" stop-color="#0EA5E9" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#0EA5E9" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="orbViolet" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.30"/>
+      <stop offset="60%" stop-color="#6366F1" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#6366F1" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="orbEmerald" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#10B981" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#10B981" stop-opacity="0"/>
+    </radialGradient>
+
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#F8FAFC"/>
+      <stop offset="45%" stop-color="#67E8F9"/>
+      <stop offset="80%" stop-color="#A78BFA"/>
+      <stop offset="100%" stop-color="#34D399"/>
+    </linearGradient>
+
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#22D3EE" stop-opacity="0.65"/>
+      <stop offset="50%" stop-color="#818CF8" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#10B981" stop-opacity="0.65"/>
+    </linearGradient>
+
+    <linearGradient id="scanGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#22D3EE" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#22D3EE" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#A78BFA" stop-opacity="0"/>
+    </linearGradient>
+
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#38BDF8" stroke-opacity="0.06" stroke-width="1"/>
+    </pattern>
+
+    <clipPath id="cardClip">
+      <rect x="2" y="2" width="1196" height="316" rx="20"/>
+    </clipPath>
+
+    <style>
+      .orb1 { animation: float1 9s ease-in-out infinite; }
+      .orb2 { animation: float2 11s ease-in-out infinite; }
+      .orb3 { animation: float3 10s ease-in-out infinite; }
+      .pulse-dot { animation: pulse 2s ease-in-out infinite; transform-origin: center; }
+      .pulse-ring { animation: ring 2s ease-out infinite; transform-origin: 966px 56px; }
+      .blink { animation: blink 1.1s step-end infinite; }
+      .scanline { animation: scan 5.5s linear infinite; }
+      .p1 { animation: drift 6s ease-in-out infinite; }
+      .p2 { animation: drift 8s ease-in-out infinite 1.2s; }
+      .p3 { animation: drift 7s ease-in-out infinite 2.4s; }
+      .p4 { animation: drift 9s ease-in-out infinite 0.6s; }
+      .wave-bar-1 { animation: eq 1.4s ease-in-out infinite; transform-origin: bottom; }
+      .wave-bar-2 { animation: eq 1.4s ease-in-out infinite 0.2s; transform-origin: bottom; }
+      .wave-bar-3 { animation: eq 1.4s ease-in-out infinite 0.4s; transform-origin: bottom; }
+      .wave-bar-4 { animation: eq 1.4s ease-in-out infinite 0.6s; transform-origin: bottom; }
+      .wave-bar-5 { animation: eq 1.4s ease-in-out infinite 0.8s; transform-origin: bottom; }
+
+      @keyframes float1 {
+        0%, 100% { transform: translate(0px, 0px); }
+        50% { transform: translate(35px, -18px); }
+      }
+      @keyframes float2 {
+        0%, 100% { transform: translate(0px, 0px); }
+        50% { transform: translate(-30px, 20px); }
+      }
+      @keyframes float3 {
+        0%, 100% { transform: translate(0px, 0px); }
+        50% { transform: translate(20px, 16px); }
+      }
+      @keyframes pulse {
+        0%, 100% { opacity: 1; }
+        50% { opacity: 0.45; }
+      }
+      @keyframes ring {
+        0% { opacity: 0.75; transform: scale(1); }
+        100% { opacity: 0; transform: scale(2.4); }
+      }
+      @keyframes blink {
+        0%, 49% { opacity: 1; }
+        50%, 100% { opacity: 0; }
+      }
+      @keyframes scan {
+        0% { transform: translateX(-450px); }
+        100% { transform: translateX(1300px); }
+      }
+      @keyframes drift {
+        0%, 100% { transform: translateY(0px); opacity: 0.35; }
+        50% { transform: translateY(-10px); opacity: 0.9; }
+      }
+      @keyframes eq {
+        0%, 100% { transform: scaleY(0.35); }
+        50% { transform: scaleY(1); }
+      }
+    </style>
+  </defs>
+
+  <g clip-path="url(#cardClip)">
+    <!-- Base dark gradient -->
+    <rect width="1200" height="320" fill="url(#bgGrad)"/>
+
+    <!-- Tech grid -->
+    <rect width="1200" height="320" fill="url(#grid)"/>
+
+    <!-- Animated ambient aurora orbs -->
+    <circle class="orb1" cx="220" cy="80" r="240" fill="url(#orbCyan)"/>
+    <circle class="orb2" cx="980" cy="240" r="260" fill="url(#orbViolet)"/>
+    <circle class="orb3" cx="620" cy="300" r="200" fill="url(#orbEmerald)"/>
+
+    <!-- Top glowing scan line -->
+    <rect class="scanline" x="0" y="2" width="360" height="2.5" fill="url(#scanGrad)"/>
+
+    <!-- Floating subtle particles -->
+    <circle class="p1" cx="760" cy="95" r="2.5" fill="#67E8F9"/>
+    <circle class="p2" cx="840" cy="145" r="2" fill="#A78BFA"/>
+    <circle class="p3" cx="1090" cy="120" r="2.5" fill="#34D399"/>
+    <circle class="p4" cx="690" cy="220" r="2" fill="#38BDF8"/>
+
+    <!-- Corner HUD brackets -->
+    <path d="M 28 46 L 28 28 L 46 28" fill="none" stroke="#22D3EE" stroke-width="2" stroke-opacity="0.7"/>
+    <path d="M 1172 46 L 1172 28 L 1154 28" fill="none" stroke="#818CF8" stroke-width="2" stroke-opacity="0.7"/>
+    <path d="M 28 274 L 28 292 L 46 292" fill="none" stroke="#10B981" stroke-width="2" stroke-opacity="0.7"/>
+    <path d="M 1172 274 L 1172 292 L 1154 292" fill="none" stroke="#22D3EE" stroke-width="2" stroke-opacity="0.7"/>
+
+    <!-- Top-left role badge -->
+    <rect x="64" y="40" width="290" height="32" rx="16" fill="#0F172A" fill-opacity="0.85" stroke="#22D3EE" stroke-opacity="0.35"/>
+    <text x="82" y="61" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="12.5" font-weight="600" letter-spacing="1.4" fill="#67E8F9">SOFTWARE ENGINEER  •  AI BUILDER</text>
+
+    <!-- Top-right pulsing OPEN TO WORK badge -->
+    <rect x="944" y="40" width="192" height="32" rx="16" fill="#064E3B" fill-opacity="0.45" stroke="#34D399" stroke-opacity="0.65"/>
+    <circle class="pulse-ring" cx="966" cy="56" r="5" fill="#34D399"/>
+    <circle class="pulse-dot" cx="966" cy="56" r="4.5" fill="#34D399"/>
+    <text x="982" y="61" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="12.5" font-weight="700" letter-spacing="1.1" fill="#A7F3D0">OPEN TO OPPORTUNITIES</text>
+
+    <!-- Main Name -->
+    <text x="64" y="142" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="54" font-weight="800" letter-spacing="-0.8" fill="url(#nameGrad)">M Hamza Afzal</text>
+
+    <!-- Subtitle -->
+    <text x="66" y="182" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="19" font-weight="400" fill="#CBD5E1">
+      Shipping practical AI-powered desktop apps, multi-agent systems &amp; web automation.
+    </text>
+
+    <!-- Terminal command bar -->
+    <rect x="64" y="212" width="675" height="44" rx="10" fill="#0B1120" fill-opacity="0.9" stroke="#334155" stroke-width="1.2"/>
+    <circle cx="84" cy="234" r="4.5" fill="#EF4444"/>
+    <circle cx="99" cy="234" r="4.5" fill="#F59E0B"/>
+    <circle cx="114" cy="234" r="4.5" fill="#10B981"/>
+    <text x="134" y="239" font-family="'Cascadia Code', 'Fira Code', Consolas, monospace" font-size="14" fill="#38BDF8">$</text>
+    <text x="150" y="239" font-family="'Cascadia Code', 'Fira Code', Consolas, monospace" font-size="14" fill="#E2E8F0">hamza --stack </text>
+    <text x="268" y="239" font-family="'Cascadia Code', 'Fira Code', Consolas, monospace" font-size="14" fill="#34D399">"Python · C#/.NET · JavaScript · AI · Cloud"</text>
+    <rect class="blink" x="642" y="224" width="9" height="19" rx="1.5" fill="#22D3EE"/>
+
+    <!-- Right-side floating holographic metrics panel -->
+    <g transform="translate(805, 102)">
+      <rect width="330" height="154" rx="14" fill="#0F172A" fill-opacity="0.72" stroke="#38BDF8" stroke-opacity="0.28" stroke-width="1.2"/>
+      <text x="20" y="30" font-family="'Cascadia Code', Consolas, monospace" font-size="11.5" font-weight="700" letter-spacing="1.2" fill="#94A3B8">ENGINEERING FOCUS</text>
+
+      <!-- Live equalizer bars -->
+      <g transform="translate(274, 15)">
+        <rect class="wave-bar-1" x="0" y="0" width="4" height="18" rx="2" fill="#22D3EE"/>
+        <rect class="wave-bar-2" x="8" y="0" width="4" height="18" rx="2" fill="#38BDF8"/>
+        <rect class="wave-bar-3" x="16" y="0" width="4" height="18" rx="2" fill="#818CF8"/>
+        <rect class="wave-bar-4" x="24" y="0" width="4" height="18" rx="2" fill="#A78BFA"/>
+        <rect class="wave-bar-5" x="32" y="0" width="4" height="18" rx="2" fill="#34D399"/>
+      </g>
+
+      <line x1="20" y1="42" x2="310" y2="42" stroke="#1E293B" stroke-width="1"/>
+
+      <text x="20" y="68" font-family="'Segoe UI', sans-serif" font-size="13.5" font-weight="600" fill="#E2E8F0">⚡ AI Voice &amp; Multi-Agent Apps</text>
+      <text x="20" y="94" font-family="'Segoe UI', sans-serif" font-size="13.5" font-weight="600" fill="#E2E8F0">🖥️ Native Windows Tools (Python &amp; C#)</text>
+      <text x="20" y="120" font-family="'Segoe UI', sans-serif" font-size="13.5" font-weight="600" fill="#E2E8F0">🌐 Web, Automation &amp; Cloud Delivery</text>
+      <text x="20" y="142" font-family="'Cascadia Code', Consolas, monospace" font-size="11.5" fill="#67E8F9">@ihamxaafzal  •  github.com/ihamxaafzal</text>
+    </g>
+  </g>
+
+  <!-- Outer rounded border -->
+  <rect x="2" y="2" width="1196" height="316" rx="20" fill="none" stroke="url(#borderGrad)" stroke-width="2"/>
+</svg>
