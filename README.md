@@ -247,5 +247,5 @@ Looking for an **AI Developer**, **Software Engineer**, **Automation Engineer**,
 </p>
 
 <p align="center">
-  <img src="./footer-wave.svg?v=2" alt="Footer Wave — M Hamza Afzal" width="100%" />
+  <img src="./footer-wave-v2.svg" alt="Footer Wave — M Hamza Afzal" width="100%" />
 </p>
