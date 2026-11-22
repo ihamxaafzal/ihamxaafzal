@@ -1,14 +1,19 @@
 <p align="center">
-  <img src="./hero-banner.svg?v=4" alt="M Hamza Afzal — AI Developer &amp; AI-Assisted Software Engineer" width="100%" />
+  <a href="https://iammhamza.com/" target="_blank">
+    <img src="./hero-banner.svg?v=4" alt="M Hamza Afzal — AI Developer &amp; AI-Assisted Software Engineer" width="100%" />
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/ihamxaafzal">
+  <a href="https://iammhamza.com/" target="_blank">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&multiline=false&repeat=true&width=820&height=42&lines=AI+Developer+%E2%80%A2+Building+Software+with+AI-Assisted+Development;Python+%C2%B7+C%23+%2F+.NET+%C2%B7+JavaScript+%C2%B7+Multi-Agent+AI+Systems;Shipping+AI+Voice+Studios%2C+OCR%2C+Desktop+Apps+%26+Cloud+Automation;Open+to+AI+Developer+%2F+Software+Engineer+Roles" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
+  <a href="https://iammhamza.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-iammhamza.com-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio — iammhamza.com" />
+  </a>
   <a href="https://www.linkedin.com/in/iammhamzaafzal/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -197,9 +202,12 @@ I combine strong engineering fundamentals with **AI-assisted development** to it
 
 ## 🤝 Let's Connect — Open to Software Engineering Roles
 
-Looking for a **Software Engineer**, **AI Application Developer**, or **Desktop / Automation Engineer** who ships real, user-ready products? I'd love to chat!
+Looking for an **AI Developer**, **Software Engineer**, or **Desktop / Automation Engineer** who ships real, user-ready products? Explore more of my work at **[iammhamza.com](https://iammhamza.com/)** or reach out directly!
 
 <p align="center">
+  <a href="https://iammhamza.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-iammhamza.com-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website — iammhamza.com" />
+  </a>
   <a href="https://www.linkedin.com/in/iammhamzaafzal/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-M_Hamza_Afzal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
